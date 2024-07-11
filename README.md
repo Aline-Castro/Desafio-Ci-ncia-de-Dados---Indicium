@@ -1,12 +1,40 @@
-# Desafio de Cientista de Dados: Análise de Dados de Filmes
+# Desafio Cientista de Dados: Análise de Dados de Filmes
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-40BFFF?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-757575?style=for-the-badge)](https://www.statsmodels.org/)
+[![WordCloud](https://img.shields.io/badge/WordCloud-2C3E50?style=for-the-badge)](https://github.com/amueller/word_cloud)
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pickle](https://img.shields.io/badge/Pickle-FFD700?style=for-the-badge)](https://docs.python.org/3/library/pickle.html)
+[![TextBlob](https://img.shields.io/badge/TextBlob-15AABF?style=for-the-badge)](https://textblob.readthedocs.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/Transformers-54B689?style=for-the-badge)](https://huggingface.co/transformers/)
+[![Regular Expression](https://img.shields.io/badge/Regular_Expression-4D4D4D?style=for-the-badge)](https://docs.python.org/3/library/re.html)
+[![Warnings](https://img.shields.io/badge/Warnings-FFA500?style=for-the-badge)](https://docs.python.org/3/library/warnings.html)
+
 
 ## Introdução
 
-Bem-vindo ao Desafio de Cientista de Dados, projetado para testar habilidades em resolver problemas de negócios, análise de dados e modelagem preditiva. Este desafio visa avaliar entendimento de conceitos estatísticos em modelos preditivos, criatividade na resolução de problemas e aplicação de modelos básicos de machine learning.
+Bem-vindo(a) ao Desafio de Cientista de Dados proposto pela INDICIUM, projetado para testar habilidades em resolver problemas de negócios, análise de dados e modelagem preditiva. Este desafio visa avaliar entendimento de conceitos estatísticos em modelos preditivos, criatividade na resolução de problemas e aplicação de modelos básicos de machine learning.
 
 ## Desafio
 
-A tarefa é analisar um conjunto de dados de filmes para orientar o desenvolvimento do próximo filme de um estúdio de Hollywood chamado PProductions. Essa análise precisa ser detalhada, considerando diversos fatores (a incorporação de dados externos é permitida e encorajada) devido aos altos investimentos financeiros envolvidos.
+A tarefa é analisar um conjunto de dados de filmes para orientar o desenvolvimento do próximo filme de um estúdio de Hollywood chamado PProductions. Essa análise precisa ser detalhada, considerando diversos fatores devido aos altos investimentos financeiros envolvidos.
+
+
+## Instalação
+
+Para instalar e executar este projeto, siga as instruções abaixo:
+
+1. Clone o repositório para a sua máquina local usando `git clone`;
+2. Navegue até a pasta do projeto usando `cd nome-da-pasta`;
+3. Instale as dependências necessárias usando `pip install -r requirements.txt`;
+4. Abra o arquivo `LH_CD_ALINECASTRO.ipynb` em um ambiente Jupyter Notebook;
+5. Faça o upload da base de dados disponibilizada 'desafio_indicium_imdb.csv';
+6. Você pode visualizar no Colab (clicando no badge do Colab no início do projeto).
 
 ## Entregas
 
@@ -58,5 +86,32 @@ O conjunto de dados de treinamento possui 15 colunas:
 * No_of_Votes - Número de votos
 * Gross - Faturamento
 
+## Bibliotecas Utilizadas
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scipy.stats`
+- `plotly`
+- `statsmodels`
+- `wordcloud`
+- `sklearn`
+- `pickle`
+- `textblob`
+- `torch`
+- `transformers`
+- `re`
+- `warnings`
+
+___
+### Contribuições
+
+Contribuições para este projeto são bem-vindas. Por favor, abra uma issue ou um pull request para discutir possíveis melhorias ou adições ao projeto.
+
+## Autora:
+
+###### Desenvolvido por Aline Castro. Você pode entrar em contato através do LinkedIn:<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinecastrosantos/)
 ---
 
